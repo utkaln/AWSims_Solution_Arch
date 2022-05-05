@@ -11,7 +11,35 @@ Example Changes
 2.  Turned on lifecycle rule to roll VPC flow logs to Glacier after 90 days
 - Cost Optimization - Move logs to Glacier after 90 days
 
-3. Enabled MFA on all accounts in Organization
+3. Enabled MFA on all accounts in Organization 
+
+4. Added one more availability zone
+
+-  Reliability
+
+ 
+
+5. Separated Web Server from MySQL. Web Server in public subnet, MySQL in private subnet
+
+- Security
+
+- Cost Optimization
+
+- Operation Excellence
+
+ 
+
+6. Added Application Load Balancer
+
+- Reliability
+
+ 
+
+7. Added CloudWatch and Auto Scaling Group
+
+- Reliability
+
+- Performance
 
 ***********************You may not use flow logs or in the example above in your exercise******************************************
 
