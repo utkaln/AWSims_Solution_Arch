@@ -16,6 +16,7 @@ Example Changes
 4. Added one more availability zone
 
 -  Reliability
+- Operational Excellence
 
  
 
@@ -32,6 +33,7 @@ Example Changes
 6. Added Application Load Balancer
 
 - Reliability
+- Operational Excellence
 
  
 
