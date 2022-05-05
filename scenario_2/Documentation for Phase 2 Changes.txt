@@ -7,9 +7,39 @@ Example Changes
 - Cost Optimization - Parquet format
 - Hive Prefixes - Operational Excellence
 
-2.  
 
-***********************You may not use flow logs or MFA in the example above in your exercise******************************************
+2.  Turned on lifecycle rule to roll VPC flow logs to Glacier after 90 days
+- Cost Optimization - Move logs to Glacier after 90 days
 
-You can suggest any changes that you want as long as you document them here AND show them in your cloudformation.
-Each implemented change in this phase is worth 10 points
+3. Enabled MFA on all accounts in Organization 
+
+4. Added one more availability zone
+
+-  Reliability
+- Operational Excellence
+
+ 
+
+5. Separated Web Server from MySQL. Web Server in public subnet, MySQL in private subnet
+
+- Security
+
+- Cost Optimization
+
+- Operation Excellence
+
+ 
+
+6. Added Application Load Balancer
+
+- Reliability
+- Operational Excellence
+
+ 
+
+7. Added CloudWatch and Auto Scaling Group
+
+- Reliability
+
+- Performance
+
